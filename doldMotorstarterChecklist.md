@@ -86,29 +86,72 @@ Email: __________________________________   Company Website: ___________________
 - [ ] Reversing Contactor
 - [ ] Speed Controller / Phase Controller
 
-**Type:**
-- [ ] Single Purpose Safety Relay
-- [ ] Dual Input Safety Relay
-- [ ] Programmable Safety Relay
+**400 V up to (For Three Phase Motors) :**
+- [ ] 0,75 kW
+- [ ] 4 kW
+- [ ] 5,5 kW
+- [ ] 7,5 kW
+- [ ] 11 kW
+- [ ] 15 kW
+- [ ] 18,5 kW
+- [ ] 22 kW
+- [ ] 30 kW
 
-**Voltage Requirement:**
-- [ ] 24VDC
-- [ ] 110VAC
-- [ ] 230VAC
+**230 V up to (For Single Phase Motors) :**
+- [ ] 1,5 kW
+- [ ] 5 kW
+- [ ] 3 kW
+- [ ] 5,5 kW
 
-**Circuit Type:**
-- [ ] Emergency Stop Circuit
-- [ ] Safety Stop Circuit
-- [ ] Dual Channel
-- [ ] Single Channel
+**Load Voltage Up To:**
+- [ ] AC 230 V
+- [ ] AC 480 V
+- [ ] 3AC 230 / 400 V
+- [ ] 3AC 400 V
+- [ ] 3AC 460 V
+- [ ] 3AC 480 V
+- [ ] 3AC 475 V
 
-**Related Safety Relays:**
-- [ ] Standstill Monitor
-- [ ] DC Brake
+**Extra Functions (Softstarters Only):**
+- [ ] Temperature Monitoring
+- [ ] Mains Monitoring
 
-**Other Requirements:**
+**Widths (Softstarters Only):**
+- [ ] 22,5 mm
+- [ ] 35 mm
+- [ ] 45 mm
+- [ ] 52,5 mm
+- [ ] 67,5 mm
+- [ ] 72 mm
+- [ ] 90 mm
+- [ ] 100 mm
+- [ ] 103 mm
+- [ ] 105 mm
+- [ ] 112,5 mm
+- [ ] 205 mm
 
-**Quantity Needed For This Project:**
+**Width (Motor Brakes,)(45mm to 110mm):**
+
+**Contacts:**
+- [ ] 1 Changeover
+- [ ] 2 NO Contacts
+- [ ] 4 NO Contacts
+- [ ] 2x1 NO Contact
+- [ ] 2x1 Changeover
+- [ ] 3x1 NO Contact
+
+**Braking Time Adjustable Up To Max (Motor Brake Only):**
+- [ ] 15s
+- [ ] 20s
+- [ ] 31s
+- [ ] 320s
+
+**Braking Current Adjustable Up To Max (Motor Brake Only):**
+- [ ] 25A
+- [ ] 32A
+- [ ] 60A
+- [ ] 80A
+- [ ] 600A
 
 **Target Price:**
 
