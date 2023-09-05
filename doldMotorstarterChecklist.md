@@ -73,22 +73,18 @@ Email: __________________________________   Company Website: ___________________
 <table class="tg">
     <thead>
     <tr>
-        <th class="tg-fpmh" >SAFETY RELAYS</th>
+        <th class="tg-fpmh" >DRIVE TECHNOLOGY AND MOTORSTARTERS</th>
     </tr>
     </thead>
 </table>
 
-**Application:**
-- [ ] Emergency Stop
-- [ ] Two Hand Control
-- [ ] Safety Interlock Switch
-- [ ] Non-Contact Safety Switch
-- [ ] Safety Solenoid Interlock Switch
-- [ ] Safety Mat
-- [ ] Safety Light Curtain
-- [ ] Safety Relay Time Delayed Outputs
-- [ ] Safety Laser Scanner
-- [ ] Safety Single or Multiple Beams
+**Product Type:**
+- [ ] Softstarter
+- [ ] Motor Brake Relay
+- [ ] Motorstarter
+- [ ] Solid State Relay / Solid State Contactor
+- [ ] Reversing Contactor
+- [ ] Speed Controller / Phase Controller
 
 **Type:**
 - [ ] Single Purpose Safety Relay
