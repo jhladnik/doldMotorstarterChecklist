@@ -86,6 +86,20 @@ Email: __________________________________   Company Website: ___________________
 - [ ] Reversing Contactor
 - [ ] Speed Controller / Phase Controller
 
+<table class="tg">
+    <thead>
+    <tr>
+        <th class="tg-fpmh" >Softstarters</th>
+    </tr>
+    </thead>
+</table>
+
+**230 V up to (For Single Phase Motors) :**
+- [ ] 1,5 kW
+- [ ] 5 kW
+- [ ] 3 kW
+- [ ] 5,5 kW
+
 **400 V up to (For Three Phase Motors) :**
 - [ ] 0,75 kW
 - [ ] 4 kW
@@ -97,12 +111,6 @@ Email: __________________________________   Company Website: ___________________
 - [ ] 22 kW
 - [ ] 30 kW
 
-**230 V up to (For Single Phase Motors) :**
-- [ ] 1,5 kW
-- [ ] 5 kW
-- [ ] 3 kW
-- [ ] 5,5 kW
-
 **Load Voltage Up To:**
 - [ ] AC 230 V
 - [ ] AC 480 V
@@ -112,11 +120,16 @@ Email: __________________________________   Company Website: ___________________
 - [ ] 3AC 480 V
 - [ ] 3AC 475 V
 
-**Extra Functions (Softstarters Only):**
+**Extra Functions:**
 - [ ] Temperature Monitoring
 - [ ] Mains Monitoring
 
-**Widths (Softstarters Only):**
+**Approvals and Markings**
+- [ ] TUV
+- [ ] UKCA
+- [ ] UL-listed C/US, UKCA
+
+**Widths:**
 - [ ] 22,5 mm
 - [ ] 35 mm
 - [ ] 45 mm
@@ -130,68 +143,48 @@ Email: __________________________________   Company Website: ___________________
 - [ ] 112,5 mm
 - [ ] 205 mm
 
-**Width (Motor Brakes,)(45mm to 110mm):**
-
 **Contacts:**
 - [ ] 1 Changeover
-- [ ] 2 NO Contacts
-- [ ] 4 NO Contacts
 - [ ] 2x1 NO Contact
 - [ ] 2x1 Changeover
 - [ ] 3x1 NO Contact
 
-**Braking Time Adjustable Up To Max (Motor Brake Only):**
+**Quantity:**
+
+**Target Delivery Date:**
+
+**Cross Reference Part Number:**
+
+
+<table class="tg">
+    <thead>
+    <tr>
+        <th class="tg-fpmh" >Motor Brake Relays</th>
+    </tr>
+    </thead>
+</table>
+
+**Width (45mm - 110mm):**
+
+**Braking Time Adjustable Up To Max:**
 - [ ] 15s
 - [ ] 20s
 - [ ] 31s
 - [ ] 320s
 
-**Braking Current Adjustable Up To Max (Motor Brake Only):**
-- [ ] 25A
-- [ ] 32A
-- [ ] 60A
-- [ ] 80A
-- [ ] 600A
+**Braking Current Adjustable Up To Max:**
+- [ ] 25 A
+- [ ] 32 A
+- [ ] 60 A
+- [ ] 80 A
+- [ ] 600 A
 
-**Target Price:**
+**Contacts:**
+- [ ] 1 Changeover
+- [ ] 2 NO Contacts
+- [ ] 4 NO Contacts
 
-**Target Delivery Date:**
-
-**Cross Reference Part Number:**
-
-
-<table class="tg">
-    <thead>
-    <tr>
-        <th class="tg-fpmh" >SAFETY COMPONENT REQUIREMENTS</th>
-    </tr>
-    </thead>
-</table>
-
-- [ ] Light Curtains
-- [ ] Two Hand Controls
-- [ ] Emergency Stop Button
-- [ ] Safety Mats
-- [ ] Sensing Edge
-- [ ] Bumber Switch
-- [ ] Trapped Key Interlocking
-- [ ] Interlock Switch
-- [ ] Latching Interlock Switch
-- [ ] RFID Safety Switch
-- [ ] Non-Contact Safety Switch
-- [ ] Hinge Safety Switch
-- [ ] Laser Scanner
-- [ ] Single or Multi-Beam
-
-**Special Ratings:**
-- [ ] IP69K
-- [ ] EX Proof
-
-**Other Requirements:**
-
-**Quantity Needed For This Project:**
-
-**Target Price:**
+**Quantity:**
 
 **Target Delivery Date:**
 
@@ -200,59 +193,185 @@ Email: __________________________________   Company Website: ___________________
 <table class="tg">
     <thead>
     <tr>
-        <th class="tg-fpmh" >MACHINE SAFEGUARDING PRODUCTS</th>
+        <th class="tg-fpmh" >Motorstarters</th>
     </tr>
     </thead>
 </table>
 
-- [ ] Physical Guarding
-- [ ] Safety Light Curtain
-- [ ] Safety Laser Scanner
-- [ ] Safety Single or Multi-Beam System
-- [ ] Safety Mats
-- [ ] Safety Sensing Edge
-- [ ] Safety Bumper Switch
+**Load Current Up To:**
+- [ ] 5 A
+- [ ] 7 A
+- [ ] 9 A
 
-**Emergency Stop Button:**
-- [ ] 22mm
-- [ ] 30mm
-- [ ] Oversized
-- [ ] Illuminated
-- [ ] w/ Lockout Feature
-- [ ] w/ Enclosure
+**Phase:**
+- [ ] 1 Phase
+- [ ] 3 Phase
 
-**Cable Operated Safety Switch:**
-- [ ] Slack Cable
-- [ ] Cable Detection
-- [ ] Single Ended
-- [ ] Double Ended
-- [ ] w/ Indicator Light
+**Approvals and Markings**
+- [ ] UL-listed C/US
+- [ ] UKCA
+- [ ] UL-listed C/US, UKCA
 
-**Guard Door Monitoring Safety Switches:**
-- [ ] Keyed Interlock
-- [ ] Solenoid Latching Keyed Interlock
-- [ ] Solenoid Latching Keyed Switch with Internal Release
-- [ ] Non-Contact Switch
-- [ ] Non-Contact Switch Stand Alone
-- [ ] Non-Contact RFID Switch
-- [ ] Latching Non-Contact Switch
+**Aux Voltage:**
+- [ ] DC 24 V
 
-**Trapped Key Interlocking System:** Y/N
+**Bus Interface:**
+- [ ] Modbus RTV
 
-**Two Hand Control:** Y/N
+**Contacts:**
+- [ ] 1 Changeover
 
-**Muting Required of Safety System For:**
-- [ ] Material Transfer
-- [ ] Loading/Unloading
-- [ ] Part Forming
+**Load Voltage Up To:**
+- [ ] AC 230 V
+- [ ] 3AC 200 - 480 V
 
-**Special Environmental and System Requirements:**
-- [ ] Washdown / IP69K / IP68
-- [ ] ATEX / Explosion Proof
-- [ ] Dual Channel System
-- [ ] Single Channel System
+**Width (22mm Only)**
+- [ ] Yes
 
-**Notes on Application:**
+**Quantity:**
+
+**Target Delivery Date:**
+
+**Cross Reference Part Number:**
+
+<table class="tg">
+    <thead>
+    <tr>
+        <th class="tg-fpmh" >Solid State Relays / Contactors</th>
+    </tr>
+    </thead>
+</table>
+
+**Load Current Up To:**
+- [ ] 40 A
+- [ ] 45 A
+- [ ] 2 x 48 A
+- [ ] 50 A
+- [ ] 60 A
+- [ ] 88 A
+- [ ] 125 A
+
+**Widths:**
+- [ ] 22,5mm
+- [ ] 45mm
+- [ ] 67,5mm
+- [ ] 90mm
+- [ ] 112,5mm
+
+**Number of Poles:**
+- [ ] 1
+- [ ] 2
+- [ ] 3
+
+**On/Off Input Control:**
+- [ ] DC
+- [ ] AC
+- [ ] AC/DC
+
+**Load Voltage Up To:**
+- [ ] AC 400 V
+- [ ] AC 480 V
+- [ ] AC 600 V
+
+**Approvals and Markings**
+- [ ] -
+- [ ] UL-rec. C/US
+- [ ] UL-listed C/US
+
+**Aux Voltage:**
+- [ ] DC 24 V
+
+**Analog Input Control:**
+- [ ] 4 - 20mA
+
+**Contacts:**
+- [ ] 1 Changeover
+- [ ] with Signal Contact
+- [ ] without Signal Contact
+
+**Quantity:**
+
+**Target Delivery Date:**
+
+**Cross Reference Part Number:**
+
+<table class="tg">
+    <thead>
+    <tr>
+        <th class="tg-fpmh" >Reversing Contactors</th>
+    </tr>
+    </thead>
+</table>
+
+**Load Current Up To:**
+- [ ] 12 A
+- [ ] 20 A
+
+**Widths:**
+- [ ] 45mm
+- [ ] 67,5mm
+- [ ] 90mm
+- [ ] 112,5mm
+
+**Number of Poles:**
+- [ ] 3
+
+**On/Off Input Control:**
+- [ ] DC
+- [ ] AC
+- [ ] AC/DC
+
+**Load Voltage Up To:**
+- [ ] 3AC 24 - 480 V
+- [ ] 3AC 400 V
+
+**Approvals and Markings**
+- [ ] -
+- [ ] UL-listed C/US
+
+**Contacts:**
+- [ ] 1 Changeover
+- [ ] 2 x 1 Changeover
+
+**Quantity:**
+
+**Target Delivery Date:**
+
+**Cross Reference Part Number:**
+
+<table class="tg">
+    <thead>
+    <tr>
+        <th class="tg-fpmh" >Speed / Phase Controller</th>
+    </tr>
+    </thead>
+</table>
+
+**Nominal Load Up To:**
+- [ ] 0,3 kW
+- [ ] 2,2 kW
+
+**Width (53mm - 68mm):**
+- [ ] 45mm
+- [ ] 67,5mm
+- [ ] 90mm
+- [ ] 112,5mm
+
+**Phases:**
+- [ ] 1 Phase
+- [ ] 3 Phase
+
+**Contacts:**
+- [ ] For 1 Phase Operation
+- [ ] For 3 Phase Operation
+
+**Enclosure Design:**
+- [ ] Switch Cabinet
+- [ ] Distribution Board
+
+**Quantity:**
+
+**Target Delivery Date:**
 
 **Cross Reference Part Number:**
 
